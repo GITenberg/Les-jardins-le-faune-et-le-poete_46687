@@ -1,10 +1,16 @@
 _repo: Les-jardins-le-faune-et-le-poete_46687
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46687-h/images/cover.jpg
 creator:
   author:
     agent_name: Voisin, Auguste Gilbert de
     gutenberg_agent_id: '43902'
     url: http://www.gutenberg.org/2009/agents/43902
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46687#Les-jardins-le-faune-et-le-poete
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2014-08-25'
 gutenberg_type: Text
